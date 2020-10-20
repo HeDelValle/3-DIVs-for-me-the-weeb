@@ -1,0 +1,27 @@
+.FE {
+    background-color: #f54940;
+    font-size: 55px;
+    border: solid black 5px;
+    padding: 55px;
+}
+
+.Pokemon {
+    background-color: #c021ff;
+    font-size: 55px;
+    margin: 35px;
+    border: #138f40 groove 40px;
+}
+
+.WaifuHusbandotime {
+    background-color: #4bd9db;
+    font-size: 55px;
+    border: violet solid 20px;
+
+}
+
+img {
+    height: 450px;
+    width: 400px;
+    border: #bb0acf outset 20px;
+    
+}
